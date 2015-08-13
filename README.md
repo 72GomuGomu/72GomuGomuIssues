@@ -34,3 +34,4 @@ The following events are logged as part of the project:
 - Swordplay: `{0} cuts {1}` *Used when a character swings a sword at another, even if the cut misses*
 - Show Me the Beli!: `{0} has Beli for eyes` *When a character has the Beli symbol in place of his or her eyes (hello Nami)*
 - Marimo: `{0} calls {1} a marimo head` *When a character calls Zoro a marimo head (Sanji x Zoro mostly)*
+- Gunplay: `{0} shoots {1}` *When a character shoots another character with a pistol, rifle, or cannon*
